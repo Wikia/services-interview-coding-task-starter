@@ -15,4 +15,4 @@ BUILD SUCCESSFUL in 8s
 3 actionable tasks: 3 executed
 ```
 
-Then you should import the project into your IDE of choice to make sure you are able to add new tests freely.
+Then you should import the project into your IDE of choice to make sure you are able to add and execute new tests freely.
