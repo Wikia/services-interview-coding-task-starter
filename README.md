@@ -2,7 +2,7 @@ This is Services team interview project to help you setup your environment.
 
 Requirements:
 * Mac OS X/Linux/Windows
-* JDK 8 or newer (tested with 8 & 10)
+* JDK 8 or newer (tested with 8 & 11)
 
 Make sure that you are able to  execute tests using Gradle Wrapper first
 ```bash
