@@ -1,12 +1,12 @@
 apply plugin: 'java'
 
 repositories {
-    mavenCentral()
+  mavenCentral()
 }
 
 dependencies {
-    implementation 'org.slf4j:slf4j-api:1.7.32'
-    testImplementation 'org.slf4j:slf4j-simple:1.7.32'
-    testImplementation 'junit:junit:4.13.2'
-    testImplementation 'org.mockito:mockito-core:4.2.0'
+  implementation 'org.slf4j:slf4j-api:1.7.32'
+  testImplementation 'org.slf4j:slf4j-simple:1.7.32'
+  testImplementation 'junit:junit:4.13.2'
+  testImplementation 'org.mockito:mockito-core:4.2.0'
 }
