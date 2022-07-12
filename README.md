@@ -1,8 +1,8 @@
-This is Services team interview project to help you setup your environment.
+This is the interview project to help you setup your environment.
 
 Requirements:
 * Mac OS X/Linux/Windows
-* JDK 11 or newer (tested with 11 & 17)
+* JDK 17 or newer
 
 Make sure that you are able to  execute tests using Gradle Wrapper first
 ```bash
